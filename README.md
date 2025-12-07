@@ -12,6 +12,36 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=I-am-Chittesh&theme=ocean_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Chittesh&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/I-am-Chittesh/I-am-Chittesh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/I-am-Chittesh/I-am-Chittesh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/I-am-Chittesh/I-am-Chittesh/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=I-am-Chittesh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="150" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif"  />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31v3od67kh3mz3af2qszz3uryp2i">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v3od67kh3mz3af2qszz3uryp2i&count=4&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=I-am-Chittesh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
