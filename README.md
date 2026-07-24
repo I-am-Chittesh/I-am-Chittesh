@@ -17,13 +17,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=I-am-Chittesh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif"  />
-
 ###
 
 
