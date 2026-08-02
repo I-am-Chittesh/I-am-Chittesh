@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there, I'm Chittesh D<br><br>I'm a passionate Computer Science AI and Robotics Undergrad Student, focused on developing end-to-end hardware and software solutions for mobile robotics platforms, from sensor integration to high-level decision making.<br>My mission? Turning complex problems into clean code and tangible products. I'm always eager to collaborate on projects that push the boundaries of technology.<br><br>📌 Currently exploring: Battle Bots and Combat Robotics<br>
+# About Me:
+Sup Homie, I'm Chittesh D<br><br>I'm a passionate Computer Science AI and Robotics Undergrad Student, focused on developing end-to-end hardware and software solutions for mobile robotics platforms, from sensor integration to high-level decision making.<br>I fw turning complex problems into clean code and tangible products. I'm always eager to collaborate on projects that push the boundaries of technology.<br><br>📌 Currently exploring: Battle Bots and Combat Robotics<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am_chittesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Chittesh_D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamchitteshd@gmail.com) 
